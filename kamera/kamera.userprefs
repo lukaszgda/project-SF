@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\Downloads\SourceFiles-CreateA2DPlatformGameWithUnityAndTheDolbyAudioAPI\2DPlatformer\Assets\Dolby.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\2D\Scripts\enemymove.cs">
     <Files>
-      <File FileName="..\..\..\..\Downloads\SourceFiles-CreateA2DPlatformGameWithUnityAndTheDolbyAudioAPI\2DPlatformer\Assets\Dolby.cs" Line="24" Column="17" />
+      <File FileName="Assets\Standard Assets\2D\Scripts\enemymove.cs" Line="19" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
