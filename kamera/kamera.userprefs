@@ -1,8 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\2D\Scripts\enemymove.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\2D\Scripts\MouseClick.cs">
     <Files>
-      <File FileName="Assets\Standard Assets\2D\Scripts\enemymove.cs" Line="19" Column="29" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\2D\Scripts\enemymove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\2D\Scripts\MouseClick.cs" Line="8" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
